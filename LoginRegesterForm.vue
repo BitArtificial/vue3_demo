@@ -9,7 +9,8 @@
                 </div>
             </template>
             <div class="login_img">
-                <img src="/sszx_logo.jpg" alt="">
+                <img src="/logo.jpg" alt="">
+                这里请使用你自己的logo
             </div>
             <!-- card body -->
             <div class="login_form">
